@@ -1,0 +1,6 @@
+{
+  "name": "Vermicomposta Universitaria - Visualizador y Estudio de Criaderos",
+  "description": "Análisis territorial satelital y modelado visual de criaderos de lombriz roja californiana en campus universitario (Zapopan 20.7436, -103.3767).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
